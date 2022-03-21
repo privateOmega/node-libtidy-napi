@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/privateOmega/node-libtidy-napi/issues"
   },
-  "homepage": "https://github.com/privateOmega/node-libtidy-napi#readme"
+  "homepage": "https://github.com/privateOmega/node-libtidy-napi#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0"
+  }
 }
