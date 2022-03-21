@@ -1,0 +1,19 @@
+{
+  "name": "@privateomega/node-libtidy",
+  "version": "1.0.0",
+  "description": "node bindings for libtidy library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/privateOmega/node-libtidy-napi.git"
+  },
+  "author": "privateOmega <privateomega@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/privateOmega/node-libtidy-napi/issues"
+  },
+  "homepage": "https://github.com/privateOmega/node-libtidy-napi#readme"
+}
