@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/privateOmega/node-libtidy-napi#readme",
   "devDependencies": {
-    "eslint": "^8.11.0"
+    "eslint": "^8.11.0",
+    "prettier": "2.6.0"
   }
 }
