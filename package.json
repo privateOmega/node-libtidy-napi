@@ -31,6 +31,7 @@
     "*.{js,css,md}": "prettier --write"
   },
   "dependencies": {
+    "bindings": "^1.5.0",
     "cmake-js": "^6.3.0"
   }
 }
