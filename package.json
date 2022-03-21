@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/privateOmega/node-libtidy-napi#readme",
   "devDependencies": {
+    "@commitlint/cli": "^16.2.3",
+    "@commitlint/config-conventional": "^16.2.1",
     "eslint": "^8.11.0",
     "eslint-config-prettier": "^8.5.0",
     "husky": "^7.0.4",
